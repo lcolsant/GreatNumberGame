@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+form{
+    margin-top: 10px;
+    text-align: center;
+}
+input{
+    display: block;
+    margin: 10px auto;
+}
+
+h1{
+    /* margin: 20px auto; */
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+    color: navy;
+}
+
+h3{
+    /* margin: 20px auto; */
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: navy;
+}
+
+button{
+    margin: 10px auto;
+    display: block;
+    width: 100px;
+    height: 50px;
+    color: navy;
+    font-weight: bold;
+}
+
+#guess{
+    height: 30px;
+    width: 150px;
+    font-size: 25px;
+    color: navy;
+}
+
+#guess_btn{
+    height: 20px;
+    width: 75px;
+    font-size: 15px;
+    color: navy;
+}
+
+p{
+    text-align: center;
+}
